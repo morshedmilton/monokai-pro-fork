@@ -1,9 +1,9 @@
 # Monokai Pro Fork
 
-[![Version](https://img.shields.io/badge/version-2.0.14--fork-blue.svg)](https://github.com/yourusername/monokai-pro-fork/releases)
+[![Version](https://img.shields.io/badge/version-2.0.14--fork-blue.svg)](https://github.com/morshedmilton/monokai-pro-fork/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![VS Code](https://img.shields.io/badge/VS%20Code-1.14%2B-blue.svg)](https://code.visualstudio.com/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/monokai-pro-fork/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/morshedmilton/monokai-pro-fork/pulls)
 
 > **Beautiful functionality for professional developers** — Community fork of Monokai Pro with license validation removed.
 
@@ -23,14 +23,14 @@ This fork exists to make the themes accessible while encouraging support for the
 
 | Theme | Type | Palette |
 |-------|------|---------|
-| **Monokai Pro** | Dark | ![#272822](https://img.shields.io/badge/-#272822?style=flat-square) ![#F92672](https://img.shields.io/badge/-#F92672?style=flat-square) ![#A6E22E](https://img.shields.io/badge/-#A6E22E?style=flat-square) ![#FD971F](https://img.shields.io/badge/-#FD971F?style=flat-square) |
-| **Filter Octagon** | Dark | ![#2D2A2E](https://img.shields.io/badge/-#2D2A2E?style=flat-square) ![#FC618D](https://img.shields.io/badge/-#FC618D?style=flat-square) ![#8CE10B](https://img.shields.io/badge/-#8CE10B?style=flat-square) ![#FD9353](https://img.shields.io/badge/-#FD9353?style=flat-square) |
-| **Filter Ristretto** | Dark | ![#23241F](https://img.shields.io/badge/-#23241F?style=flat-square) ![#F9265D](https://img.shields.io/badge/-#F9265D?style=flat-square) ![#A5DC86](https://img.shields.io/badge/-#A5DC86?style=flat-square) ![#FD971F](https://img.shields.io/badge/-#FD971F?style=flat-square) |
-| **Filter Spectrum** | Dark | ![#1B1D1E](https://img.shields.io/badge/-#1B1D1E?style=flat-square) ![#FF6188](https://img.shields.io/badge/-#FF6188?style=flat-square) ![#A9DC76](https://img.shields.io/badge/-#A9DC76?style=flat-square) ![#FFD866](https://img.shields.io/badge/-#FFD866?style=flat-square) |
-| **Filter Machine** | Dark | ![#191919](https://img.shields.io/badge/-#191919?style=flat-square) ![#FF8080](https://img.shields.io/badge/-#FF8080?style=flat-square) ![#A8E063](https://img.shields.io/badge/-#A8E063?style=flat-square) ![#FFCC33](https://img.shields.io/badge/-#FFCC33?style=flat-square) |
-| **Monokai Pro Light** | Light | ![#FCFCFA](https://img.shields.io/badge/-#FCFCFA?style=flat-square) ![#D81B60](https://img.shields.io/badge/-#D81B60?style=flat-square) ![#3A8E00](https://img.shields.io/badge/-#3A8E00?style=flat-square) ![#F57C00](https://img.shields.io/badge/-#F57C00?style=flat-square) |
-| **Filter Sun** | Light | ![#FDF6E3](https://img.shields.io/badge/-#FDF6E3?style=flat-square) ![#D33682](https://img.shields.io/badge/-#D33682?style=flat-square) ![#859900](https://img.shields.io/badge/-#859900?style=flat-square) ![#B58900](https://img.shields.io/badge/-#B58900?style=flat-square) |
-| **Monokai Classic** | Dark | ![#272822](https://img.shields.io/badge/-#272822?style=flat-square) ![#F92672](https://img.shields.io/badge/-#F92672?style=flat-square) ![#A6E22E](https://img.shields.io/badge/-#A6E22E?style=flat-square) ![#E6DB74](https://img.shields.io/badge/-#E6DB74?style=flat-square) |
+| **Monokai Pro** | Dark | `#272822` `#F92672` `#A6E22E` `#FD971F` |
+| **Filter Octagon** | Dark | `#2D2A2E` `#FC618D` `#8CE10B` `#FD9353` |
+| **Filter Ristretto** | Dark | `#23241F` `#F9265D` `#A5DC86` `#FD971F` |
+| **Filter Spectrum** | Dark | `#1B1D1E` `#FF6188` `#A9DC76` `#FFD866` |
+| **Filter Machine** | Dark | `#191919` `#FF8080` `#A8E063` `#FFCC33` |
+| **Monokai Pro Light** | Light | `#FCFCFA` `#D81B60` `#3A8E00` `#F57C00` |
+| **Filter Sun** | Light | `#FDF6E3` `#D33682` `#859900` `#B58900` |
+| **Monokai Classic** | Dark | `#272822` `#F92672` `#A6E22E` `#E6DB74` |
 
 ### 📁 Icon Packs (24 Variants)
 - **Monokai Pro Icons** — Regular & Monochrome
@@ -53,14 +53,14 @@ This fork exists to make the themes accessible while encouraging support for the
 ## 📦 Installation
 
 ### From VSIX (Recommended)
-1. Download the latest `.vsix` from [Releases](https://github.com/yourusername/monokai-pro-fork/releases)
+1. Download the latest `.vsix` from [Releases](https://github.com/morshedmilton/monokai-pro-fork/releases)
 2. In VS Code: `Extensions` → `⋮` → `Install from VSIX...`
 3. Select the downloaded file
 
 ### From Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/monokai-pro-fork.git
+git clone https://github.com/morshedmilton/monokai-pro-fork.git
 cd monokai-pro-fork
 
 # Install dependencies (for development)
@@ -195,8 +195,8 @@ Fork changes:  Copyright (c) 2025 Community Contributors
 
 - **Original Monokai Pro**: [monokai.pro](https://monokai.pro)
 - **VS Code Marketplace**: [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/monokai-pro-fork/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/monokai-pro-fork/discussions)
+- **Issues**: [GitHub Issues](https://github.com/morshedmilton/monokai-pro-fork/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/morshedmilton/monokai-pro-fork/discussions)
 
 ---
 
