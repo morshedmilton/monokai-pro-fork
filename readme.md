@@ -21,9 +21,9 @@ This fork exists to make the themes accessible while encouraging support for the
 
 ### 🎨 Themes (8 Variants)
 
-| Theme | Type | Palette (Background / Accent / Green / Yellow) |
-|-------|------|------------------------------------------------|
-| **Monokai Pro** | Dark | `#272822` / `#F92672` / `#A6E22E` / `#FD971F` |
+| Theme | Type | Preview / Palette |
+|-------|------|-------------------|
+| **Monokai Pro** | Dark | ![Monokai Pro](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro.png) |
 | **Filter Octagon** | Dark | `#2D2A2E` / `#FC618D` / `#8CE10B` / `#FD9353` |
 | **Filter Ristretto** | Dark | `#23241F` / `#F9265D` / `#A5DC86` / `#FD971F` |
 | **Filter Spectrum** | Dark | `#1B1D1E` / `#FF6188` / `#A9DC76` / `#FFD866` |
@@ -31,6 +31,8 @@ This fork exists to make the themes accessible while encouraging support for the
 | **Monokai Pro Light** | Light | `#FCFCFA` / `#D81B60` / `#3A8E00` / `#F57C00` |
 | **Filter Sun** | Light | `#FDF6E3` / `#D33682` / `#859900` / `#B58900` |
 | **Monokai Classic** | Dark | `#272822` / `#F92672` / `#A6E22E` / `#E6DB74` |
+
+*Monokai Pro preview image from original repository. Other variant images not publicly available; color codes show their signature palettes (Background / Accent / Green / Yellow).*
 
 ### 📁 Icon Packs (24 Variants)
 - **Monokai Pro Icons** — Regular & Monochrome
