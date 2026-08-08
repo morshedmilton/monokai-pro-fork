@@ -21,16 +21,16 @@ This fork exists to make the themes accessible while encouraging support for the
 
 ### 🎨 Themes (8 Variants)
 
-| Theme | Type | Preview |
+| Theme | Type | Palette |
 |-------|------|---------|
-| **Monokai Pro** | Dark | ![Monokai Pro](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro.png) |
-| **Filter Octagon** | Dark | ![Filter Octagon](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro-filter-octagon.png) |
-| **Filter Ristretto** | Dark | ![Filter Ristretto](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro-filter-ristretto.png) |
-| **Filter Spectrum** | Dark | ![Filter Spectrum](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro-filter-spectrum.png) |
-| **Filter Machine** | Dark | ![Filter Machine](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro-filter-machine.png) |
-| **Monokai Pro Light** | Light | ![Light](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro-light.png) |
-| **Filter Sun** | Light | ![Filter Sun](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-pro-light-filter-sun.png) |
-| **Monokai Classic** | Dark | ![Classic](https://raw.githubusercontent.com/monokai-pro/vscode/main/img/monokai-classic.png) |
+| **Monokai Pro** | Dark | ![#272822](https://img.shields.io/badge/-#272822?style=flat-square) ![#F92672](https://img.shields.io/badge/-#F92672?style=flat-square) ![#A6E22E](https://img.shields.io/badge/-#A6E22E?style=flat-square) ![#FD971F](https://img.shields.io/badge/-#FD971F?style=flat-square) |
+| **Filter Octagon** | Dark | ![#2D2A2E](https://img.shields.io/badge/-#2D2A2E?style=flat-square) ![#FC618D](https://img.shields.io/badge/-#FC618D?style=flat-square) ![#8CE10B](https://img.shields.io/badge/-#8CE10B?style=flat-square) ![#FD9353](https://img.shields.io/badge/-#FD9353?style=flat-square) |
+| **Filter Ristretto** | Dark | ![#23241F](https://img.shields.io/badge/-#23241F?style=flat-square) ![#F9265D](https://img.shields.io/badge/-#F9265D?style=flat-square) ![#A5DC86](https://img.shields.io/badge/-#A5DC86?style=flat-square) ![#FD971F](https://img.shields.io/badge/-#FD971F?style=flat-square) |
+| **Filter Spectrum** | Dark | ![#1B1D1E](https://img.shields.io/badge/-#1B1D1E?style=flat-square) ![#FF6188](https://img.shields.io/badge/-#FF6188?style=flat-square) ![#A9DC76](https://img.shields.io/badge/-#A9DC76?style=flat-square) ![#FFD866](https://img.shields.io/badge/-#FFD866?style=flat-square) |
+| **Filter Machine** | Dark | ![#191919](https://img.shields.io/badge/-#191919?style=flat-square) ![#FF8080](https://img.shields.io/badge/-#FF8080?style=flat-square) ![#A8E063](https://img.shields.io/badge/-#A8E063?style=flat-square) ![#FFCC33](https://img.shields.io/badge/-#FFCC33?style=flat-square) |
+| **Monokai Pro Light** | Light | ![#FCFCFA](https://img.shields.io/badge/-#FCFCFA?style=flat-square) ![#D81B60](https://img.shields.io/badge/-#D81B60?style=flat-square) ![#3A8E00](https://img.shields.io/badge/-#3A8E00?style=flat-square) ![#F57C00](https://img.shields.io/badge/-#F57C00?style=flat-square) |
+| **Filter Sun** | Light | ![#FDF6E3](https://img.shields.io/badge/-#FDF6E3?style=flat-square) ![#D33682](https://img.shields.io/badge/-#D33682?style=flat-square) ![#859900](https://img.shields.io/badge/-#859900?style=flat-square) ![#B58900](https://img.shields.io/badge/-#B58900?style=flat-square) |
+| **Monokai Classic** | Dark | ![#272822](https://img.shields.io/badge/-#272822?style=flat-square) ![#F92672](https://img.shields.io/badge/-#F92672?style=flat-square) ![#A6E22E](https://img.shields.io/badge/-#A6E22E?style=flat-square) ![#E6DB74](https://img.shields.io/badge/-#E6DB74?style=flat-square) |
 
 ### 📁 Icon Packs (24 Variants)
 - **Monokai Pro Icons** — Regular & Monochrome
