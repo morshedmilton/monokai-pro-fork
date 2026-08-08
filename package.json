@@ -171,13 +171,13 @@
 		"ui",
 		"workspace"
 	],
-	"homepage": "https://github.com/yourusername/monokai-pro-fork",
+	"homepage": "https://github.com/morshedmilton/monokai-pro-fork",
 	"bugs": {
-		"url": "https://github.com/yourusername/monokai-pro-fork/issues"
+		"url": "https://github.com/morshedmilton/monokai-pro-fork/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yourusername/monokai-pro-fork.git"
+		"url": "https://github.com/morshedmilton/monokai-pro-fork.git"
 	},
 	"galleryBanner": {
 		"color": "#fdf9f3",
